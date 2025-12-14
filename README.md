@@ -2,7 +2,7 @@
 
 We used three real-world datasets to compare the correlation between Classification EC and Regression EC. Here, we used 4 ML model pairs (Liner, Knn, RF, and SRV) respectively for the classification and regression problem.
 
-<img src="https://github.com/mostafiz67/Class_EC_VS_Reg_EC/tree/main/reg_class_correlation_plots/GoF_vs_EC/Diabetes'_corr_ECs.png" alt="Correlation among Classification EC and Regression EC" width="800" height="800">
+<img src="https://github.com/mostafiz67/Class_EC_VS_Reg_EC/blob/main/reg_class_correlation_plots/GoF_vs_EC/Diabetes'_corr_ECs.png" alt="Correlation among Classification EC and Regression EC" width="800" height="800">
 <p align="center">
     Figure: Correlation among Classification EC and Regression EC (Diabetes Dataset)
 </p>
